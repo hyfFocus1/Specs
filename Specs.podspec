@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Specs/Classes'
   # s.resources = 'Assets'
-  s.frameworks = 'Foundation', 'UIKit'
+  s.frameworks = 'Foundation', 'UIKit','Alamofire'
 
 end
 
